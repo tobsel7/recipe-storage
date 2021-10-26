@@ -1,0 +1,7 @@
+Vegetarian;Contains no meat
+Vegan;Contains no animal products
+Fish;Contains fish
+High Protein;Consists of more than 40% Protein
+Low Carb;Consists of less than 40% Carbohydrates
+High Carb;Consists of more than 70% Carbohydrates
+Frutarian;Vegetarian with basis of fruits
